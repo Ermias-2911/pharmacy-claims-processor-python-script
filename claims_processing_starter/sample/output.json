@@ -1,0 +1,72 @@
+[
+  {
+    "claim_id": "CLM001",
+    "status": "APPROVED",
+    "copay_amount": 20.0,
+    "rejection_reason": null,
+    "processed_at": "2026-05-03T01:09:16Z"
+  },
+  {
+    "claim_id": "CLM002",
+    "status": "APPROVED",
+    "copay_amount": 5.0,
+    "rejection_reason": null,
+    "processed_at": "2026-05-03T01:09:16Z"
+  },
+  {
+    "claim_id": "CLM003",
+    "status": "APPROVED",
+    "copay_amount": 0.0,
+    "rejection_reason": null,
+    "processed_at": "2026-05-03T01:09:16Z"
+  },
+  {
+    "claim_id": "CLM004",
+    "status": "REJECTED",
+    "copay_amount": null,
+    "rejection_reason": "member id must be exactly 10 digits",
+    "processed_at": "2026-05-03T01:09:16Z"
+  },
+  {
+    "claim_id": "CLM005",
+    "status": "REJECTED",
+    "copay_amount": null,
+    "rejection_reason": "date of service must not be in the future",
+    "processed_at": "2026-05-03T01:09:16Z"
+  },
+  {
+    "claim_id": "CLM006",
+    "status": "REJECTED",
+    "copay_amount": null,
+    "rejection_reason": "ndc not found in FDA NDC Directory",
+    "processed_at": "2026-05-03T01:09:16Z"
+  },
+  {
+    "claim_id": "CLM007",
+    "status": "REJECTED",
+    "copay_amount": null,
+    "rejection_reason": "ndc must be in 5-4-2 format",
+    "processed_at": "2026-05-03T01:09:16Z"
+  },
+  {
+    "claim_id": "CLM008",
+    "status": "REJECTED",
+    "copay_amount": null,
+    "rejection_reason": "ndc must be in 5-4-2 format",
+    "processed_at": "2026-05-03T01:09:16Z"
+  },
+  {
+    "claim_id": "CLM009",
+    "status": "REJECTED",
+    "copay_amount": null,
+    "rejection_reason": "ndc not found in FDA NDC Directory",
+    "processed_at": "2026-05-03T01:09:16Z"
+  },
+  {
+    "claim_id": "CLM010",
+    "status": "REJECTED",
+    "copay_amount": null,
+    "rejection_reason": "ndc not found in FDA NDC Directory",
+    "processed_at": "2026-05-03T01:09:16Z"
+  }
+]
