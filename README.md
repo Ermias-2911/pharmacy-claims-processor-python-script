@@ -10,7 +10,7 @@
     
     On subsequent runs, the system is faster because it reuses the cached NDC data and avoids calling the FDA API 
     again. If the cached data expires (after 24 hours), the system automatically refreshes it by making a new API call. 
-    This ensures the data remains up to date while minimizing unnecessary external requests
+    This ensures the data remains up to date while minimizing unnecessary external requests.
 
 ## Features
     •	CSV-based batch processing
@@ -25,7 +25,7 @@
 ## Project Work Flow Diagram Miro Link
     https://miro.com/app/board/uXjVHfP7Zk0=/?moveToWidget=3458764668805690142&cot=14
     
-![img.png](img.png)
+   ![img.png](img.png)
 
  
 ## How It Works
